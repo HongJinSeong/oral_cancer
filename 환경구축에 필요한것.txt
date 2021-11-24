@@ -1,0 +1,25 @@
+ip                      port       id                     pw
+27.102.73.172     16900   challenger        GyzSzEmRlQ
+
+설치 되야 하는 목록 
+
+pip install scikit-image
+
+pip install scikit-learn
+
+pip install efficientnet_pytorch
+
+가상환경 activate 
+source t1/bin/activate
+
+
+ls
+pwd #현재경로
+cd
+mv # 파일이동 / 파일이름바꾸기
+rm # rm -R 폴더
+
+mv ./* /home/user/
+
+cp -r (하위 디렉터리 및 파일까지 전체 복사 붙여넣기)
+putty 여러개 실행가능 
